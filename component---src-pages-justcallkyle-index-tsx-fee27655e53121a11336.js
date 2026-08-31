@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslap_kommerce_web=self.webpackChunkslap_kommerce_web||[]).push([[390],{3938:function(e,l,a){a.r(l);var u=a(7294),c=a(2105);l.default=()=>u.createElement(c.default,null)}}]);
+//# sourceMappingURL=component---src-pages-justcallkyle-index-tsx-fee27655e53121a11336.js.map
